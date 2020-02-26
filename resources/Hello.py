@@ -16,7 +16,7 @@ class Hello(Resource):
 
         return {'msg': self.__p_method()}, 201
 
-        return {'status': 'success', 'error': error, 'data': result}, 201
+        # return {'status': 'success', 'error': error, 'data': result}, 201
 
     def __p_method(self):
         return 'this a private method'
