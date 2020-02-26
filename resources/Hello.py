@@ -14,7 +14,7 @@ class Hello(Resource):
         result = {'key one': 'val one', 'key two': 'val two'}
         error = None
 
-        return {'msg': self.__p_method()}, 201
+        return {'msg': request.args.get('s')}, 201
 
         # return {'status': 'success', 'error': error, 'data': result}, 201
 
