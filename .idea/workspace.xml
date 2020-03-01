@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7e44cfb-9b48-47d3-a359-81e75e588d9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/myapiproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myapiproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582953874466</updated>
       <workItem from="1582953878682" duration="1807000" />
-      <workItem from="1583042148024" duration="845000" />
+      <workItem from="1583042148024" duration="1595000" />
     </task>
     <servers />
   </component>
