@@ -1,0 +1,5 @@
+# Temporary Python files
+__pycache__
+
+# Temporary virtual environment files
+/venv/
